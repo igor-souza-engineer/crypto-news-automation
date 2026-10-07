@@ -1,0 +1,28 @@
+{
+  "name": "crypto-news-automation",
+  "version": "1.0.0",
+  "description": "Automated crypto news pipeline built with Node.js to fetch, process, filter, and distribute real-time market news from external APIs.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-souza-engineer/crypto-news-automation.git"
+  },
+  "keywords": [
+    "crypto",
+    "news",
+    "automation",
+    "nodejs",
+    "api",
+    "rest-api"
+  ],
+  "author": "Igor Souza",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/igor-souza-engineer/crypto-news-automation/issues"
+  },
+  "homepage": "https://github.com/igor-souza-engineer/crypto-news-automation#readme"
+}
